@@ -19,4 +19,4 @@ baffle
 zoop
 main
 
-Question 5: It would creat an infinite loop between baffle and ping.
+Question 5: It would create an infinite loop between baffle and ping.
